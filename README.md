@@ -27,8 +27,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Jeffwin-18/leet/tree/master/0704-binary-search) |
+| [1051-height-checker](https://github.com/Jeffwin-18/leet/tree/master/1051-height-checker) |
 ## Binary Search
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Jeffwin-18/leet/tree/master/0704-binary-search) |
+## Sorting
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Jeffwin-18/leet/tree/master/1051-height-checker) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Jeffwin-18/leet/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Jeffwin-18/leet/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
