@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Jeffwin-18/leet/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Jeffwin-18/leet/tree/master/0048-rotate-image) |
 | [0326-power-of-three](https://github.com/Jeffwin-18/leet/tree/master/0326-power-of-three) |
 | [0504-base-7](https://github.com/Jeffwin-18/leet/tree/master/0504-base-7) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Jeffwin-18/leet/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Jeffwin-18/leet/tree/master/0048-rotate-image) |
 | [0704-binary-search](https://github.com/Jeffwin-18/leet/tree/master/0704-binary-search) |
 | [1051-height-checker](https://github.com/Jeffwin-18/leet/tree/master/1051-height-checker) |
 ## Binary Search
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/Jeffwin-18/leet/tree/master/1323-maximum-69-number) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Jeffwin-18/leet/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
