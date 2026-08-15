@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Jeffwin-18/leet/tree/master/0504-base-7) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Jeffwin-18/leet/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/Jeffwin-18/leet/tree/master/1323-maximum-69-number) |
+| [1952-three-divisors](https://github.com/Jeffwin-18/leet/tree/master/1952-three-divisors) |
 ## String
 |  |
 | ------- |
@@ -79,4 +80,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Jeffwin-18/leet/tree/master/0175-combine-two-tables) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Jeffwin-18/leet/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Jeffwin-18/leet/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Jeffwin-18/leet/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Jeffwin-18/leet/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
