@@ -1,12 +1,13 @@
 class Solution {
     public double myPow(double x, int n) {
         double r=1.0;
-        long a=Math.abs(n);
-        if(x==2.00000 && n==-2147483648)
-        return 0.00000;
+        long a=n;
+        //if(x==2.00000 && n==-2147483648)
+        //return 0.00000;
         if(n<0)
         {
             x=1/x;
+            a=-a;
         }
         while(a>0)
         {
