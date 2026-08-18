@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/Jeffwin-18/leet/tree/master/1720-decode-xored-array) |
 | [1748-sum-of-unique-elements](https://github.com/Jeffwin-18/leet/tree/master/1748-sum-of-unique-elements) |
 | [1991-find-the-middle-index-in-array](https://github.com/Jeffwin-18/leet/tree/master/1991-find-the-middle-index-in-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Jeffwin-18/leet/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,11 +59,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Jeffwin-18/leet/tree/master/1051-height-checker) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Jeffwin-18/leet/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Counting Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Jeffwin-18/leet/tree/master/1051-height-checker) |
 | [1748-sum-of-unique-elements](https://github.com/Jeffwin-18/leet/tree/master/1748-sum-of-unique-elements) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Jeffwin-18/leet/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/Jeffwin-18/leet/tree/master/1323-maximum-69-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Jeffwin-18/leet/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Matrix
 |  |
 | ------- |
