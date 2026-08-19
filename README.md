@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/Jeffwin-18/leet/tree/master/1323-maximum-69-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/Jeffwin-18/leet/tree/master/1688-count-of-matches-in-tournament) |
 | [1952-three-divisors](https://github.com/Jeffwin-18/leet/tree/master/1952-three-divisors) |
+| [2413-smallest-even-multiple](https://github.com/Jeffwin-18/leet/tree/master/2413-smallest-even-multiple) |
 ## String
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Jeffwin-18/leet/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/Jeffwin-18/leet/tree/master/1952-three-divisors) |
+| [2413-smallest-even-multiple](https://github.com/Jeffwin-18/leet/tree/master/2413-smallest-even-multiple) |
 ## Prime Factorization
 |  |
 | ------- |
