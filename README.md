@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Jeffwin-18/leet/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Jeffwin-18/leet/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Jeffwin-18/leet/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Jeffwin-18/leet/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Jeffwin-18/leet/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/Jeffwin-18/leet/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/Jeffwin-18/leet/tree/master/0371-sum-of-two-integers) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Jeffwin-18/leet/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jeffwin-18/leet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0048-rotate-image](https://github.com/Jeffwin-18/leet/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Jeffwin-18/leet/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Jeffwin-18/leet/tree/master/0204-count-primes) |
 | [0704-binary-search](https://github.com/Jeffwin-18/leet/tree/master/0704-binary-search) |
 | [1051-height-checker](https://github.com/Jeffwin-18/leet/tree/master/1051-height-checker) |
