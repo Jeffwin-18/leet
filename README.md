@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Jeffwin-18/leet/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Jeffwin-18/leet/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/Jeffwin-18/leet/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/Jeffwin-18/leet/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Jeffwin-18/leet/tree/master/0371-sum-of-two-integers) |
 | [0504-base-7](https://github.com/Jeffwin-18/leet/tree/master/0504-base-7) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Jeffwin-18/leet/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jeffwin-18/leet/tree/master/0004-median-of-two-sorted-arrays) |
+| [0367-valid-perfect-square](https://github.com/Jeffwin-18/leet/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Jeffwin-18/leet/tree/master/0704-binary-search) |
 ## Sorting
 |  |
