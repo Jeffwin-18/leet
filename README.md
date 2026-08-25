@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Jeffwin-18/leet/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/Jeffwin-18/leet/tree/master/0013-roman-to-integer) |
 | [1748-sum-of-unique-elements](https://github.com/Jeffwin-18/leet/tree/master/1748-sum-of-unique-elements) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Jeffwin-18/leet/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Maths
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Jeffwin-18/leet/tree/master/1748-sum-of-unique-elements) |
 | [1991-find-the-middle-index-in-array](https://github.com/Jeffwin-18/leet/tree/master/1991-find-the-middle-index-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Jeffwin-18/leet/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Jeffwin-18/leet/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
 | ------- |
