@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Jeffwin-18/leet/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jeffwin-18/leet/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/Jeffwin-18/leet/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Jeffwin-18/leet/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Jeffwin-18/leet/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Jeffwin-18/leet/tree/master/0204-count-primes) |
@@ -148,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Jeffwin-18/leet/tree/master/0204-count-primes) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Jeffwin-18/leet/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
