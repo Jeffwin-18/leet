@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Jeffwin-18/leet/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/Jeffwin-18/leet/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/Jeffwin-18/leet/tree/master/0242-valid-anagram) |
 | [1748-sum-of-unique-elements](https://github.com/Jeffwin-18/leet/tree/master/1748-sum-of-unique-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Jeffwin-18/leet/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Maths
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Jeffwin-18/leet/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Jeffwin-18/leet/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/Jeffwin-18/leet/tree/master/0242-valid-anagram) |
 | [0504-base-7](https://github.com/Jeffwin-18/leet/tree/master/0504-base-7) |
 | [0709-to-lower-case](https://github.com/Jeffwin-18/leet/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/Jeffwin-18/leet/tree/master/1108-defanging-an-ip-address) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Jeffwin-18/leet/tree/master/0242-valid-anagram) |
 | [1051-height-checker](https://github.com/Jeffwin-18/leet/tree/master/1051-height-checker) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Jeffwin-18/leet/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Counting Sort
