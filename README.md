@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/Jeffwin-18/leet/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/Jeffwin-18/leet/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Jeffwin-18/leet/tree/master/2469-convert-the-temperature) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Jeffwin-18/leet/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/Jeffwin-18/leet/tree/master/1991-find-the-middle-index-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Jeffwin-18/leet/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Jeffwin-18/leet/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Jeffwin-18/leet/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
