@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Jeffwin-18/leet/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Jeffwin-18/leet/tree/master/0371-sum-of-two-integers) |
 | [0504-base-7](https://github.com/Jeffwin-18/leet/tree/master/0504-base-7) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Jeffwin-18/leet/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Jeffwin-18/leet/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/Jeffwin-18/leet/tree/master/1323-maximum-69-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/Jeffwin-18/leet/tree/master/1688-count-of-matches-in-tournament) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jeffwin-18/leet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Jeffwin-18/leet/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Jeffwin-18/leet/tree/master/0540-single-element-in-a-sorted-array) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Jeffwin-18/leet/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/Jeffwin-18/leet/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Jeffwin-18/leet/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Jeffwin-18/leet/tree/master/0852-peak-index-in-a-mountain-array) |
