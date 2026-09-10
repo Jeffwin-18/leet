@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jeffwin-18/leet/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1720-decode-xored-array](https://github.com/Jeffwin-18/leet/tree/master/1720-decode-xored-array) |
 | [1748-sum-of-unique-elements](https://github.com/Jeffwin-18/leet/tree/master/1748-sum-of-unique-elements) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Jeffwin-18/leet/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1991-find-the-middle-index-in-array](https://github.com/Jeffwin-18/leet/tree/master/1991-find-the-middle-index-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Jeffwin-18/leet/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Jeffwin-18/leet/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Jeffwin-18/leet/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/Jeffwin-18/leet/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jeffwin-18/leet/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Jeffwin-18/leet/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 ## Sorting
 |  |
 | ------- |
