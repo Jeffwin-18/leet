@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Jeffwin-18/leet/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Jeffwin-18/leet/tree/master/0242-valid-anagram) |
 | [1748-sum-of-unique-elements](https://github.com/Jeffwin-18/leet/tree/master/1748-sum-of-unique-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Jeffwin-18/leet/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Jeffwin-18/leet/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Maths
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Jeffwin-18/leet/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/Jeffwin-18/leet/tree/master/0326-power-of-three) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Jeffwin-18/leet/tree/master/3483-unique-3-digit-even-numbers) |
 ## Array
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Jeffwin-18/leet/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1991-find-the-middle-index-in-array](https://github.com/Jeffwin-18/leet/tree/master/1991-find-the-middle-index-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Jeffwin-18/leet/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Jeffwin-18/leet/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Jeffwin-18/leet/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Jeffwin-18/leet/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Jeffwin-18/leet/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/Jeffwin-18/leet/tree/master/1952-three-divisors) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Jeffwin-18/leet/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
