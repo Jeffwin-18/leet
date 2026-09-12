@@ -8,7 +8,7 @@
 8            double mid=l+(h-l)/2.0;
 9            int c=0;
 10            int nu=0;
-11            int de=arr[arr.length-1];
+11            int de=1;
 12            int j=1;
 13
 14            for(int i=0;i<arr.length;i++)
