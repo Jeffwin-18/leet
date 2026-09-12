@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Jeffwin-18/leet/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Jeffwin-18/leet/tree/master/0242-valid-anagram) |
 | [1122-relative-sort-array](https://github.com/Jeffwin-18/leet/tree/master/1122-relative-sort-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Jeffwin-18/leet/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/Jeffwin-18/leet/tree/master/1748-sum-of-unique-elements) |
 | [2418-sort-the-people](https://github.com/Jeffwin-18/leet/tree/master/2418-sort-the-people) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Jeffwin-18/leet/tree/master/3483-unique-3-digit-even-numbers) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/Jeffwin-18/leet/tree/master/1095-find-in-mountain-array) |
 | [1122-relative-sort-array](https://github.com/Jeffwin-18/leet/tree/master/1122-relative-sort-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jeffwin-18/leet/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Jeffwin-18/leet/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jeffwin-18/leet/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1720-decode-xored-array](https://github.com/Jeffwin-18/leet/tree/master/1720-decode-xored-array) |
 | [1748-sum-of-unique-elements](https://github.com/Jeffwin-18/leet/tree/master/1748-sum-of-unique-elements) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Jeffwin-18/leet/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Jeffwin-18/leet/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Jeffwin-18/leet/tree/master/1122-relative-sort-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Jeffwin-18/leet/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Jeffwin-18/leet/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2418-sort-the-people](https://github.com/Jeffwin-18/leet/tree/master/2418-sort-the-people) |
 ## Counting Sort
