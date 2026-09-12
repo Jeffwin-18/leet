@@ -3,7 +3,7 @@
 3        double l=0.0;
 4        double h=1.0;
 5
-6        while(h-l>1e-9)
+6        while(l<h)
 7        {
 8            double mid=l+(h-l)/2.0;
 9            int c=0;
