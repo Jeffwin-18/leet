@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Jeffwin-18/leet/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/Jeffwin-18/leet/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Jeffwin-18/leet/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Jeffwin-18/leet/tree/master/0349-intersection-of-two-arrays) |
 | [1122-relative-sort-array](https://github.com/Jeffwin-18/leet/tree/master/1122-relative-sort-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Jeffwin-18/leet/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/Jeffwin-18/leet/tree/master/1748-sum-of-unique-elements) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Jeffwin-18/leet/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jeffwin-18/leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/Jeffwin-18/leet/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/Jeffwin-18/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jeffwin-18/leet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Jeffwin-18/leet/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Jeffwin-18/leet/tree/master/0540-single-element-in-a-sorted-array) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Jeffwin-18/leet/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jeffwin-18/leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Jeffwin-18/leet/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/Jeffwin-18/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Jeffwin-18/leet/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Jeffwin-18/leet/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jeffwin-18/leet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Jeffwin-18/leet/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/Jeffwin-18/leet/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Jeffwin-18/leet/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/Jeffwin-18/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jeffwin-18/leet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Jeffwin-18/leet/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Jeffwin-18/leet/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -261,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Jeffwin-18/leet/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Jeffwin-18/leet/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Jeffwin-18/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Jeffwin-18/leet/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Jeffwin-18/leet/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Interactive
