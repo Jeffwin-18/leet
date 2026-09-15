@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Jeffwin-18/leet/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Jeffwin-18/leet/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Jeffwin-18/leet/tree/master/0371-sum-of-two-integers) |
+| [0461-hamming-distance](https://github.com/Jeffwin-18/leet/tree/master/0461-hamming-distance) |
 | [1720-decode-xored-array](https://github.com/Jeffwin-18/leet/tree/master/1720-decode-xored-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Jeffwin-18/leet/tree/master/2206-divide-array-into-equal-pairs) |
 ## Divide and Conquer
