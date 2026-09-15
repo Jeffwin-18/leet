@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Jeffwin-18/leet/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Jeffwin-18/leet/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/Jeffwin-18/leet/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Jeffwin-18/leet/tree/master/0371-sum-of-two-integers) |
 | [1720-decode-xored-array](https://github.com/Jeffwin-18/leet/tree/master/1720-decode-xored-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Jeffwin-18/leet/tree/master/2206-divide-array-into-equal-pairs) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/Jeffwin-18/leet/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Jeffwin-18/leet/tree/master/0410-split-array-largest-sum) |
 ## Heap (Priority Queue)
 |  |
