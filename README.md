@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Jeffwin-18/leet/tree/master/0058-length-of-last-word) |
 | [0187-repeated-dna-sequences](https://github.com/Jeffwin-18/leet/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Jeffwin-18/leet/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Jeffwin-18/leet/tree/master/0344-reverse-string) |
 | [0504-base-7](https://github.com/Jeffwin-18/leet/tree/master/0504-base-7) |
 | [0709-to-lower-case](https://github.com/Jeffwin-18/leet/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/Jeffwin-18/leet/tree/master/1108-defanging-an-ip-address) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Jeffwin-18/leet/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Jeffwin-18/leet/tree/master/0088-merge-sorted-array) |
+| [0344-reverse-string](https://github.com/Jeffwin-18/leet/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Jeffwin-18/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Jeffwin-18/leet/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Jeffwin-18/leet/tree/master/0786-k-th-smallest-prime-fraction) |
