@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Jeffwin-18/leet/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/Jeffwin-18/leet/tree/master/0013-roman-to-integer) |
+| [0187-repeated-dna-sequences](https://github.com/Jeffwin-18/leet/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Jeffwin-18/leet/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Jeffwin-18/leet/tree/master/0349-intersection-of-two-arrays) |
 | [1122-relative-sort-array](https://github.com/Jeffwin-18/leet/tree/master/1122-relative-sort-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Jeffwin-18/leet/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Jeffwin-18/leet/tree/master/0058-length-of-last-word) |
+| [0187-repeated-dna-sequences](https://github.com/Jeffwin-18/leet/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Jeffwin-18/leet/tree/master/0242-valid-anagram) |
 | [0504-base-7](https://github.com/Jeffwin-18/leet/tree/master/0504-base-7) |
 | [0709-to-lower-case](https://github.com/Jeffwin-18/leet/tree/master/0709-to-lower-case) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Jeffwin-18/leet/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Jeffwin-18/leet/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Jeffwin-18/leet/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/Jeffwin-18/leet/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/Jeffwin-18/leet/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Jeffwin-18/leet/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Jeffwin-18/leet/tree/master/0231-power-of-two) |
@@ -325,4 +328,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Jeffwin-18/leet/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Jeffwin-18/leet/tree/master/0090-subsets-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Jeffwin-18/leet/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Jeffwin-18/leet/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Jeffwin-18/leet/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Jeffwin-18/leet/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Jeffwin-18/leet/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
