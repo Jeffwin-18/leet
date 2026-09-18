@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Jeffwin-18/leet/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Jeffwin-18/leet/tree/master/2206-divide-array-into-equal-pairs) |
 | [2418-sort-the-people](https://github.com/Jeffwin-18/leet/tree/master/2418-sort-the-people) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/Jeffwin-18/leet/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Jeffwin-18/leet/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Jeffwin-18/leet/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Jeffwin-18/leet/tree/master/3875-construct-uniform-parity-array-i) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/Jeffwin-18/leet/tree/master/0461-hamming-distance) |
 | [1720-decode-xored-array](https://github.com/Jeffwin-18/leet/tree/master/1720-decode-xored-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Jeffwin-18/leet/tree/master/2206-divide-array-into-equal-pairs) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/Jeffwin-18/leet/tree/master/2425-bitwise-xor-of-all-pairings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -350,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Jeffwin-18/leet/tree/master/0187-repeated-dna-sequences) |
+## Brainteaser
+|  |
+| ------- |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/Jeffwin-18/leet/tree/master/2425-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
