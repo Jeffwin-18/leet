@@ -9,7 +9,7 @@ class Solution {
                 if (intervals[i][0] <= intervals[j][1] &&
                     intervals[j][0] <= intervals[i][1])
                 {
-                    c+2;
+                    c++;
                 }
             }
         }
