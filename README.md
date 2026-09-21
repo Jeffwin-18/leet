@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Jeffwin-18/leet/tree/master/0371-sum-of-two-integers) |
 | [0504-base-7](https://github.com/Jeffwin-18/leet/tree/master/0504-base-7) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Jeffwin-18/leet/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Jeffwin-18/leet/tree/master/0779-k-th-symbol-in-grammar) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Jeffwin-18/leet/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/Jeffwin-18/leet/tree/master/1323-maximum-69-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/Jeffwin-18/leet/tree/master/1688-count-of-matches-in-tournament) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Jeffwin-18/leet/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Jeffwin-18/leet/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Jeffwin-18/leet/tree/master/0342-power-of-four) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Jeffwin-18/leet/tree/master/0779-k-th-symbol-in-grammar) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Jeffwin-18/leet/tree/master/3483-unique-3-digit-even-numbers) |
 ## Array
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Jeffwin-18/leet/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/Jeffwin-18/leet/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Jeffwin-18/leet/tree/master/0476-number-complement) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Jeffwin-18/leet/tree/master/0779-k-th-symbol-in-grammar) |
 | [1009-complement-of-base-10-integer](https://github.com/Jeffwin-18/leet/tree/master/1009-complement-of-base-10-integer) |
 | [1720-decode-xored-array](https://github.com/Jeffwin-18/leet/tree/master/1720-decode-xored-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Jeffwin-18/leet/tree/master/2206-divide-array-into-equal-pairs) |
