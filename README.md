@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Jeffwin-18/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jeffwin-18/leet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Jeffwin-18/leet/tree/master/0410-split-array-largest-sum) |
+| [0427-construct-quad-tree](https://github.com/Jeffwin-18/leet/tree/master/0427-construct-quad-tree) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Jeffwin-18/leet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Jeffwin-18/leet/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Jeffwin-18/leet/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Jeffwin-18/leet/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jeffwin-18/leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jeffwin-18/leet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0427-construct-quad-tree](https://github.com/Jeffwin-18/leet/tree/master/0427-construct-quad-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Jeffwin-18/leet/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jeffwin-18/leet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jeffwin-18/leet/tree/master/0240-search-a-2d-matrix-ii) |
+| [0427-construct-quad-tree](https://github.com/Jeffwin-18/leet/tree/master/0427-construct-quad-tree) |
 | [0912-sort-an-array](https://github.com/Jeffwin-18/leet/tree/master/0912-sort-an-array) |
 ## Database
 |  |
@@ -385,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Jeffwin-18/leet/tree/master/0169-majority-element) |
+## Tree
+|  |
+| ------- |
+| [0427-construct-quad-tree](https://github.com/Jeffwin-18/leet/tree/master/0427-construct-quad-tree) |
 <!---LeetCode Topics End-->
