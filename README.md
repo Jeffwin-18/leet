@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jeffwin-18/leet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Jeffwin-18/leet/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Jeffwin-18/leet/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Jeffwin-18/leet/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Jeffwin-18/leet/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Jeffwin-18/leet/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Jeffwin-18/leet/tree/master/0078-subsets) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jeffwin-18/leet/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Jeffwin-18/leet/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Jeffwin-18/leet/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Jeffwin-18/leet/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jeffwin-18/leet/tree/master/0215-kth-largest-element-in-an-array) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Jeffwin-18/leet/tree/master/0053-maximum-subarray) |
 | [0338-counting-bits](https://github.com/Jeffwin-18/leet/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Jeffwin-18/leet/tree/master/0410-split-array-largest-sum) |
 ## Heap (Priority Queue)
