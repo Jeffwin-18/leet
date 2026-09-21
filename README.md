@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Jeffwin-18/leet/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/Jeffwin-18/leet/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Jeffwin-18/leet/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Jeffwin-18/leet/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Jeffwin-18/leet/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Jeffwin-18/leet/tree/master/0349-intersection-of-two-arrays) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Jeffwin-18/leet/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Jeffwin-18/leet/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Jeffwin-18/leet/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Jeffwin-18/leet/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Jeffwin-18/leet/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jeffwin-18/leet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jeffwin-18/leet/tree/master/0240-search-a-2d-matrix-ii) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Jeffwin-18/leet/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Jeffwin-18/leet/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Jeffwin-18/leet/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jeffwin-18/leet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Jeffwin-18/leet/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Jeffwin-18/leet/tree/master/0274-h-index) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Jeffwin-18/leet/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Jeffwin-18/leet/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/Jeffwin-18/leet/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Jeffwin-18/leet/tree/master/1051-height-checker) |
@@ -230,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jeffwin-18/leet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Jeffwin-18/leet/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Jeffwin-18/leet/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Jeffwin-18/leet/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Jeffwin-18/leet/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jeffwin-18/leet/tree/master/0215-kth-largest-element-in-an-array) |
@@ -374,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jeffwin-18/leet/tree/master/0215-kth-largest-element-in-an-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Jeffwin-18/leet/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
