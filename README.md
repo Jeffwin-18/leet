@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Jeffwin-18/leet/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Jeffwin-18/leet/tree/master/0164-maximum-gap) |
 | [0204-count-primes](https://github.com/Jeffwin-18/leet/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Jeffwin-18/leet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jeffwin-18/leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Jeffwin-18/leet/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/Jeffwin-18/leet/tree/master/0274-h-index) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Jeffwin-18/leet/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Jeffwin-18/leet/tree/master/0164-maximum-gap) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Jeffwin-18/leet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Jeffwin-18/leet/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Jeffwin-18/leet/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Jeffwin-18/leet/tree/master/0349-intersection-of-two-arrays) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Jeffwin-18/leet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/Jeffwin-18/leet/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Jeffwin-18/leet/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Jeffwin-18/leet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jeffwin-18/leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/Jeffwin-18/leet/tree/master/0912-sort-an-array) |
 ## Database
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Jeffwin-18/leet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jeffwin-18/leet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Jeffwin-18/leet/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/Jeffwin-18/leet/tree/master/0912-sort-an-array) |
@@ -363,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Jeffwin-18/leet/tree/master/2425-bitwise-xor-of-all-pairings) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Jeffwin-18/leet/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
