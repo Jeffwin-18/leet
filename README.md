@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Jeffwin-18/leet/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/Jeffwin-18/leet/tree/master/1095-find-in-mountain-array) |
 | [1122-relative-sort-array](https://github.com/Jeffwin-18/leet/tree/master/1122-relative-sort-array) |
+| [1219-path-with-maximum-gold](https://github.com/Jeffwin-18/leet/tree/master/1219-path-with-maximum-gold) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jeffwin-18/leet/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Jeffwin-18/leet/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jeffwin-18/leet/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Jeffwin-18/leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jeffwin-18/leet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0427-construct-quad-tree](https://github.com/Jeffwin-18/leet/tree/master/0427-construct-quad-tree) |
+| [1219-path-with-maximum-gold](https://github.com/Jeffwin-18/leet/tree/master/1219-path-with-maximum-gold) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Jeffwin-18/leet/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Jeffwin-18/leet/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Jeffwin-18/leet/tree/master/0090-subsets-ii) |
+| [1219-path-with-maximum-gold](https://github.com/Jeffwin-18/leet/tree/master/1219-path-with-maximum-gold) |
 ## Sliding Window
 |  |
 | ------- |
