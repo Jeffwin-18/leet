@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Jeffwin-18/leet/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jeffwin-18/leet/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Jeffwin-18/leet/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Jeffwin-18/leet/tree/master/0058-length-of-last-word) |
 | [0187-repeated-dna-sequences](https://github.com/Jeffwin-18/leet/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Jeffwin-18/leet/tree/master/0242-valid-anagram) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Jeffwin-18/leet/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Jeffwin-18/leet/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/Jeffwin-18/leet/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Jeffwin-18/leet/tree/master/0338-counting-bits) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jeffwin-18/leet/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Jeffwin-18/leet/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Jeffwin-18/leet/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Jeffwin-18/leet/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Jeffwin-18/leet/tree/master/0046-permutations) |
@@ -408,4 +411,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0427-construct-quad-tree](https://github.com/Jeffwin-18/leet/tree/master/0427-construct-quad-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Jeffwin-18/leet/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
