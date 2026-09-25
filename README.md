@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Jeffwin-18/leet/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Jeffwin-18/leet/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Jeffwin-18/leet/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Jeffwin-18/leet/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Jeffwin-18/leet/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Jeffwin-18/leet/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Jeffwin-18/leet/tree/master/0078-subsets) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Jeffwin-18/leet/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Jeffwin-18/leet/tree/master/0410-split-array-largest-sum) |
 | [1323-maximum-69-number](https://github.com/Jeffwin-18/leet/tree/master/1323-maximum-69-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Jeffwin-18/leet/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Jeffwin-18/leet/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Jeffwin-18/leet/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Jeffwin-18/leet/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/Jeffwin-18/leet/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Jeffwin-18/leet/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Jeffwin-18/leet/tree/master/0410-split-array-largest-sum) |
