@@ -1,0 +1,17 @@
+1class Solution {
+2    public int minQueenMoves(int[] source, int[] target) {
+3        int so=source[0];
+4        int sc=source[1];
+5        int to=target[0];
+6        int tc=target[1];
+7        if(so==to && sc==tc)
+8        {
+9            return 0;
+10        }
+11        if( so==to || sc==tc || Math.abs(so-to)==Math.abs(sc-tc))
+12           {
+13            return 1;
+14           } 
+15        return 2;
+16    }
+17}
