@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/Jeffwin-18/leet/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/Jeffwin-18/leet/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Jeffwin-18/leet/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0455-assign-cookies](https://github.com/Jeffwin-18/leet/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Jeffwin-18/leet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/Jeffwin-18/leet/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/Jeffwin-18/leet/tree/master/0704-binary-search) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jeffwin-18/leet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/Jeffwin-18/leet/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Jeffwin-18/leet/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0455-assign-cookies](https://github.com/Jeffwin-18/leet/tree/master/0455-assign-cookies) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Jeffwin-18/leet/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Jeffwin-18/leet/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/Jeffwin-18/leet/tree/master/0912-sort-an-array) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Jeffwin-18/leet/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Jeffwin-18/leet/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Jeffwin-18/leet/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0455-assign-cookies](https://github.com/Jeffwin-18/leet/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Jeffwin-18/leet/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Jeffwin-18/leet/tree/master/0860-lemonade-change) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Jeffwin-18/leet/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Jeffwin-18/leet/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Jeffwin-18/leet/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Jeffwin-18/leet/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/Jeffwin-18/leet/tree/master/0455-assign-cookies) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Jeffwin-18/leet/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Jeffwin-18/leet/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Interactive
@@ -381,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Jeffwin-18/leet/tree/master/0455-assign-cookies) |
 | [1122-relative-sort-array](https://github.com/Jeffwin-18/leet/tree/master/1122-relative-sort-array) |
 ## Pigeonhole Principle
 |  |
