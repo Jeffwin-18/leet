@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Jeffwin-18/leet/tree/master/0410-split-array-largest-sum) |
 | [0427-construct-quad-tree](https://github.com/Jeffwin-18/leet/tree/master/0427-construct-quad-tree) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Jeffwin-18/leet/tree/master/0540-single-element-in-a-sorted-array) |
+| [0605-can-place-flowers](https://github.com/Jeffwin-18/leet/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/Jeffwin-18/leet/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Jeffwin-18/leet/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Jeffwin-18/leet/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jeffwin-18/leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Jeffwin-18/leet/tree/master/0134-gas-station) |
 | [0410-split-array-largest-sum](https://github.com/Jeffwin-18/leet/tree/master/0410-split-array-largest-sum) |
+| [0605-can-place-flowers](https://github.com/Jeffwin-18/leet/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Jeffwin-18/leet/tree/master/0860-lemonade-change) |
 | [1323-maximum-69-number](https://github.com/Jeffwin-18/leet/tree/master/1323-maximum-69-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Jeffwin-18/leet/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
