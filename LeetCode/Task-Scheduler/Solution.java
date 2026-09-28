@@ -1,29 +1,25 @@
-1import java.util.Arrays;
-2
-3class Solution {
-4    public int leastInterval(char[] tasks, int n) {
-5        int[] freq = new int[26];
-6        for (char task : tasks) {
-7            freq[task - 'A']++;
-8        }
-9        
-10        Arrays.sort(freq);
-11        int maxFreq = freq[25];
-12        
-13        // Count how many tasks have the maximum frequency
-14        int maxCount = 0;
-15        for (int i = 25; i >= 0; i--) {
-16            if (freq[i] == maxFreq) {
-17                maxCount++;
-18            } else {
+1class Solution {
+2    public int leastInterval(char[] tasks, int n) {
+3        int [] fr=new int[26];
+4        for( char i:tasks)
+5        {
+6            fr[i-'A']++;
+7        }
+8        Arrays.sort(fr);
+9        int mf=fr[25];
+10        int mc=0;
+11        for(int i=25;i>=0;i--)
+12        {
+13            if(fr[i]==mf)
+14            {
+15                mc++;
+16            }
+17            else
+18            {
 19                break;
 20            }
 21        }
-22        
-23        // Calculate minimum time required by max frequency slots
-24        int minIntervals = (maxFreq - 1) * (n + 1) + maxCount;
-25        
-26        // Return max between calculated frame size and total actual tasks
-27        return Math.max(tasks.length, minIntervals);
-28    }
-29}
+22        int min=(mf-1)*(n+1)+mc;
+23        return Math.max(tasks.length, min);
+24    }
+25}
