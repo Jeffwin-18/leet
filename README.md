@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Jeffwin-18/leet/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Jeffwin-18/leet/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Jeffwin-18/leet/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/Jeffwin-18/leet/tree/master/0402-remove-k-digits) |
 | [0504-base-7](https://github.com/Jeffwin-18/leet/tree/master/0504-base-7) |
 | [0709-to-lower-case](https://github.com/Jeffwin-18/leet/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/Jeffwin-18/leet/tree/master/1108-defanging-an-ip-address) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Jeffwin-18/leet/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jeffwin-18/leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Jeffwin-18/leet/tree/master/0134-gas-station) |
+| [0402-remove-k-digits](https://github.com/Jeffwin-18/leet/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Jeffwin-18/leet/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Jeffwin-18/leet/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Jeffwin-18/leet/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Jeffwin-18/leet/tree/master/0402-remove-k-digits) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jeffwin-18/leet/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Queue
 |  |
@@ -473,4 +476,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/Jeffwin-18/leet/tree/master/0406-queue-reconstruction-by-height) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Jeffwin-18/leet/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
