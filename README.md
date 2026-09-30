@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Jeffwin-18/leet/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Jeffwin-18/leet/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Jeffwin-18/leet/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Jeffwin-18/leet/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Jeffwin-18/leet/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Jeffwin-18/leet/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Jeffwin-18/leet/tree/master/0326-power-of-three) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Jeffwin-18/leet/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Jeffwin-18/leet/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Jeffwin-18/leet/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Jeffwin-18/leet/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jeffwin-18/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jeffwin-18/leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0140-word-break-ii](https://github.com/Jeffwin-18/leet/tree/master/0140-word-break-ii) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Jeffwin-18/leet/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/Jeffwin-18/leet/tree/master/0140-word-break-ii) |
 ## Binary Indexed Tree
 |  |
