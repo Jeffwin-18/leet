@@ -131,6 +131,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0704-binary-search](https://github.com/Jeffwin-18/leet/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Jeffwin-18/leet/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Jeffwin-18/leet/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/Jeffwin-18/leet/tree/master/0746-min-cost-climbing-stairs) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Jeffwin-18/leet/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Jeffwin-18/leet/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/Jeffwin-18/leet/tree/master/0860-lemonade-change) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0338-counting-bits](https://github.com/Jeffwin-18/leet/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Jeffwin-18/leet/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Jeffwin-18/leet/tree/master/0435-non-overlapping-intervals) |
+| [0746-min-cost-climbing-stairs](https://github.com/Jeffwin-18/leet/tree/master/0746-min-cost-climbing-stairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
