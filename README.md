@@ -9,6 +9,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0001-two-sum](https://github.com/Jeffwin-18/leet/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/Jeffwin-18/leet/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jeffwin-18/leet/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0139-word-break](https://github.com/Jeffwin-18/leet/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Jeffwin-18/leet/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/Jeffwin-18/leet/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Jeffwin-18/leet/tree/master/0187-repeated-dna-sequences) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jeffwin-18/leet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Jeffwin-18/leet/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Jeffwin-18/leet/tree/master/0058-length-of-last-word) |
+| [0139-word-break](https://github.com/Jeffwin-18/leet/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Jeffwin-18/leet/tree/master/0140-word-break-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Jeffwin-18/leet/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Jeffwin-18/leet/tree/master/0242-valid-anagram) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0134-gas-station](https://github.com/Jeffwin-18/leet/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Jeffwin-18/leet/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Jeffwin-18/leet/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/Jeffwin-18/leet/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Jeffwin-18/leet/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jeffwin-18/leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Jeffwin-18/leet/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0070-climbing-stairs](https://github.com/Jeffwin-18/leet/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jeffwin-18/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jeffwin-18/leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/Jeffwin-18/leet/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Jeffwin-18/leet/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/Jeffwin-18/leet/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Jeffwin-18/leet/tree/master/0213-house-robber-ii) |
@@ -480,11 +484,13 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Jeffwin-18/leet/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Jeffwin-18/leet/tree/master/0140-word-break-ii) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Jeffwin-18/leet/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Jeffwin-18/leet/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Jeffwin-18/leet/tree/master/0140-word-break-ii) |
 ## Binary Indexed Tree
 |  |
@@ -510,4 +516,8 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Jeffwin-18/leet/tree/master/0322-coin-change) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Jeffwin-18/leet/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
