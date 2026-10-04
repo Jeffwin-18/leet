@@ -1,0 +1,21 @@
+1class Solution {
+2    static final long MOD=1000000007;
+3    public int countGoodStrings(long n) {
+4        long a=n;
+5        return (int )(2*fib(a)[0]%MOD);
+6    }
+7    long [] fib (long n)
+8    {
+9        if(n==0)
+10        return new long[]{0,1};
+11
+12        long [] b=fib(n/2);
+13        long a1=b[0],a2=b[1];
+14        long c=a1*((2*a2%MOD-a1+MOD)%MOD)%MOD;
+15        long d=(a1*a1%MOD+a2*a2%MOD)%MOD;
+16        if(n%2==0)
+17        return new long []{c,d};
+18
+19        return new long[]{d ,(c + d) % MOD};
+20    }
+21}
