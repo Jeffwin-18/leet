@@ -70,6 +70,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0402-remove-k-digits](https://github.com/Jeffwin-18/leet/tree/master/0402-remove-k-digits) |
 | [0504-base-7](https://github.com/Jeffwin-18/leet/tree/master/0504-base-7) |
 | [0709-to-lower-case](https://github.com/Jeffwin-18/leet/tree/master/0709-to-lower-case) |
+| [0856-score-of-parentheses](https://github.com/Jeffwin-18/leet/tree/master/0856-score-of-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Jeffwin-18/leet/tree/master/1108-defanging-an-ip-address) |
 | [2418-sort-the-people](https://github.com/Jeffwin-18/leet/tree/master/2418-sort-the-people) |
 ## Recursion
@@ -344,6 +345,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Jeffwin-18/leet/tree/master/0402-remove-k-digits) |
+| [0856-score-of-parentheses](https://github.com/Jeffwin-18/leet/tree/master/0856-score-of-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jeffwin-18/leet/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Queue
 |  |
@@ -492,6 +494,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Jeffwin-18/leet/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Jeffwin-18/leet/tree/master/0856-score-of-parentheses) |
 ## Trie
 |  |
 | ------- |
