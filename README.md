@@ -44,6 +44,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Jeffwin-18/leet/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0738-monotone-increasing-digits](https://github.com/Jeffwin-18/leet/tree/master/0738-monotone-increasing-digits) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Jeffwin-18/leet/tree/master/0779-k-th-symbol-in-grammar) |
+| [1137-n-th-tribonacci-number](https://github.com/Jeffwin-18/leet/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Jeffwin-18/leet/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/Jeffwin-18/leet/tree/master/1323-maximum-69-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/Jeffwin-18/leet/tree/master/1688-count-of-matches-in-tournament) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0410-split-array-largest-sum](https://github.com/Jeffwin-18/leet/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Jeffwin-18/leet/tree/master/0435-non-overlapping-intervals) |
 | [0746-min-cost-climbing-stairs](https://github.com/Jeffwin-18/leet/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Jeffwin-18/leet/tree/master/1137-n-th-tribonacci-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -494,6 +496,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0070-climbing-stairs](https://github.com/Jeffwin-18/leet/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Jeffwin-18/leet/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Jeffwin-18/leet/tree/master/0140-word-break-ii) |
+| [1137-n-th-tribonacci-number](https://github.com/Jeffwin-18/leet/tree/master/1137-n-th-tribonacci-number) |
 ## Binary Indexed Tree
 |  |
 | ------- |
