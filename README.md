@@ -115,6 +115,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0137-single-number-ii](https://github.com/Jeffwin-18/leet/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Jeffwin-18/leet/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Jeffwin-18/leet/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/Jeffwin-18/leet/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jeffwin-18/leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Jeffwin-18/leet/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Jeffwin-18/leet/tree/master/0162-find-peak-element) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jeffwin-18/leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Jeffwin-18/leet/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Jeffwin-18/leet/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/Jeffwin-18/leet/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Jeffwin-18/leet/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Jeffwin-18/leet/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/Jeffwin-18/leet/tree/master/0279-perfect-squares) |
