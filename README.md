@@ -35,6 +35,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0070-climbing-stairs](https://github.com/Jeffwin-18/leet/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Jeffwin-18/leet/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Jeffwin-18/leet/tree/master/0231-power-of-two) |
+| [0279-perfect-squares](https://github.com/Jeffwin-18/leet/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Jeffwin-18/leet/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Jeffwin-18/leet/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Jeffwin-18/leet/tree/master/0367-valid-perfect-square) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0140-word-break-ii](https://github.com/Jeffwin-18/leet/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/Jeffwin-18/leet/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Jeffwin-18/leet/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/Jeffwin-18/leet/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Jeffwin-18/leet/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Jeffwin-18/leet/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Jeffwin-18/leet/tree/master/0410-split-array-largest-sum) |
@@ -522,14 +524,17 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Jeffwin-18/leet/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Jeffwin-18/leet/tree/master/0322-coin-change) |
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Jeffwin-18/leet/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Jeffwin-18/leet/tree/master/0322-coin-change) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Jeffwin-18/leet/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Jeffwin-18/leet/tree/master/0322-coin-change) |
 ## Brute-Force Search
 |  |
