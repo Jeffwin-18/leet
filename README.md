@@ -149,6 +149,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0860-lemonade-change](https://github.com/Jeffwin-18/leet/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Jeffwin-18/leet/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Jeffwin-18/leet/tree/master/0912-sort-an-array) |
+| [0931-minimum-falling-path-sum](https://github.com/Jeffwin-18/leet/tree/master/0931-minimum-falling-path-sum) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Jeffwin-18/leet/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Jeffwin-18/leet/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/Jeffwin-18/leet/tree/master/1051-height-checker) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0240-search-a-2d-matrix-ii](https://github.com/Jeffwin-18/leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jeffwin-18/leet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0427-construct-quad-tree](https://github.com/Jeffwin-18/leet/tree/master/0427-construct-quad-tree) |
+| [0931-minimum-falling-path-sum](https://github.com/Jeffwin-18/leet/tree/master/0931-minimum-falling-path-sum) |
 | [1219-path-with-maximum-gold](https://github.com/Jeffwin-18/leet/tree/master/1219-path-with-maximum-gold) |
 ## Bit Manipulation
 |  |
@@ -412,6 +414,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0410-split-array-largest-sum](https://github.com/Jeffwin-18/leet/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Jeffwin-18/leet/tree/master/0435-non-overlapping-intervals) |
 | [0746-min-cost-climbing-stairs](https://github.com/Jeffwin-18/leet/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/Jeffwin-18/leet/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/Jeffwin-18/leet/tree/master/1137-n-th-tribonacci-number) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/Jeffwin-18/leet/tree/master/2320-count-number-of-ways-to-place-houses) |
 ## Heap (Priority Queue)
