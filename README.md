@@ -63,6 +63,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jeffwin-18/leet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Jeffwin-18/leet/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Jeffwin-18/leet/tree/master/0058-length-of-last-word) |
+| [0115-distinct-subsequences](https://github.com/Jeffwin-18/leet/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/Jeffwin-18/leet/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Jeffwin-18/leet/tree/master/0140-word-break-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Jeffwin-18/leet/tree/master/0187-repeated-dna-sequences) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0063-unique-paths-ii](https://github.com/Jeffwin-18/leet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Jeffwin-18/leet/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Jeffwin-18/leet/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Jeffwin-18/leet/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jeffwin-18/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jeffwin-18/leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Jeffwin-18/leet/tree/master/0139-word-break) |
