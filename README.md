@@ -131,6 +131,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0260-single-number-iii](https://github.com/Jeffwin-18/leet/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/Jeffwin-18/leet/tree/master/0274-h-index) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Jeffwin-18/leet/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/Jeffwin-18/leet/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Jeffwin-18/leet/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Jeffwin-18/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jeffwin-18/leet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0213-house-robber-ii](https://github.com/Jeffwin-18/leet/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/Jeffwin-18/leet/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Jeffwin-18/leet/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/Jeffwin-18/leet/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Jeffwin-18/leet/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Jeffwin-18/leet/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Jeffwin-18/leet/tree/master/0410-split-array-largest-sum) |
