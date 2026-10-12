@@ -74,6 +74,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0709-to-lower-case](https://github.com/Jeffwin-18/leet/tree/master/0709-to-lower-case) |
 | [0856-score-of-parentheses](https://github.com/Jeffwin-18/leet/tree/master/0856-score-of-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Jeffwin-18/leet/tree/master/1108-defanging-an-ip-address) |
+| [1859-sorting-the-sentence](https://github.com/Jeffwin-18/leet/tree/master/1859-sorting-the-sentence) |
 | [2418-sort-the-people](https://github.com/Jeffwin-18/leet/tree/master/2418-sort-the-people) |
 ## Recursion
 |  |
@@ -237,6 +238,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [1051-height-checker](https://github.com/Jeffwin-18/leet/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Jeffwin-18/leet/tree/master/1122-relative-sort-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Jeffwin-18/leet/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1859-sorting-the-sentence](https://github.com/Jeffwin-18/leet/tree/master/1859-sorting-the-sentence) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Jeffwin-18/leet/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2418-sort-the-people](https://github.com/Jeffwin-18/leet/tree/master/2418-sort-the-people) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Jeffwin-18/leet/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | ------- |
 | [1051-height-checker](https://github.com/Jeffwin-18/leet/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Jeffwin-18/leet/tree/master/1122-relative-sort-array) |
+| [1859-sorting-the-sentence](https://github.com/Jeffwin-18/leet/tree/master/1859-sorting-the-sentence) |
 ## Greedy
 |  |
 | ------- |
