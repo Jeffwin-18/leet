@@ -143,6 +143,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0435-non-overlapping-intervals](https://github.com/Jeffwin-18/leet/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Jeffwin-18/leet/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Jeffwin-18/leet/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/Jeffwin-18/leet/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/Jeffwin-18/leet/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Jeffwin-18/leet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/Jeffwin-18/leet/tree/master/0605-can-place-flowers) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0435-non-overlapping-intervals](https://github.com/Jeffwin-18/leet/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Jeffwin-18/leet/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Jeffwin-18/leet/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/Jeffwin-18/leet/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Jeffwin-18/leet/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/Jeffwin-18/leet/tree/master/0630-course-schedule-iii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Jeffwin-18/leet/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0435-non-overlapping-intervals](https://github.com/Jeffwin-18/leet/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Jeffwin-18/leet/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Jeffwin-18/leet/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/Jeffwin-18/leet/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/Jeffwin-18/leet/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Jeffwin-18/leet/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/Jeffwin-18/leet/tree/master/0630-course-schedule-iii) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jeffwin-18/leet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jeffwin-18/leet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/Jeffwin-18/leet/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Jeffwin-18/leet/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/Jeffwin-18/leet/tree/master/0630-course-schedule-iii) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Jeffwin-18/leet/tree/master/0786-k-th-smallest-prime-fraction) |
