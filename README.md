@@ -15,6 +15,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0187-repeated-dna-sequences](https://github.com/Jeffwin-18/leet/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Jeffwin-18/leet/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Jeffwin-18/leet/tree/master/0349-intersection-of-two-arrays) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Jeffwin-18/leet/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0621-task-scheduler](https://github.com/Jeffwin-18/leet/tree/master/0621-task-scheduler) |
 | [1122-relative-sort-array](https://github.com/Jeffwin-18/leet/tree/master/1122-relative-sort-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Jeffwin-18/leet/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jeffwin-18/leet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0406-queue-reconstruction-by-height](https://github.com/Jeffwin-18/leet/tree/master/0406-queue-reconstruction-by-height) |
 | [0410-split-array-largest-sum](https://github.com/Jeffwin-18/leet/tree/master/0410-split-array-largest-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Jeffwin-18/leet/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0427-construct-quad-tree](https://github.com/Jeffwin-18/leet/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/Jeffwin-18/leet/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Jeffwin-18/leet/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0338-counting-bits](https://github.com/Jeffwin-18/leet/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Jeffwin-18/leet/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Jeffwin-18/leet/tree/master/0371-sum-of-two-integers) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Jeffwin-18/leet/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/Jeffwin-18/leet/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Jeffwin-18/leet/tree/master/0476-number-complement) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Jeffwin-18/leet/tree/master/0779-k-th-symbol-in-grammar) |
@@ -532,6 +535,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | ------- |
 | [0139-word-break](https://github.com/Jeffwin-18/leet/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Jeffwin-18/leet/tree/master/0140-word-break-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Jeffwin-18/leet/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Memoization
 |  |
 | ------- |
