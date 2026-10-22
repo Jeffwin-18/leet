@@ -339,6 +339,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0175-combine-two-tables](https://github.com/Jeffwin-18/leet/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/Jeffwin-18/leet/tree/master/0182-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Jeffwin-18/leet/tree/master/0197-rising-temperature) |
+| [0511-game-play-analysis-i](https://github.com/Jeffwin-18/leet/tree/master/0511-game-play-analysis-i) |
 ## Enumeration
 |  |
 | ------- |
