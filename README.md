@@ -346,6 +346,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0595-big-countries](https://github.com/Jeffwin-18/leet/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Jeffwin-18/leet/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/Jeffwin-18/leet/tree/master/0607-sales-person) |
+| [0610-triangle-judgement](https://github.com/Jeffwin-18/leet/tree/master/0610-triangle-judgement) |
 ## Enumeration
 |  |
 | ------- |
